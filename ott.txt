@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 1 $
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk51.PNG" group-title="Alwan Sport" group-logo="https://files.catbox.moe/imzk5l.PNG", ALWAN SPORTS 1 $
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402389&extension=m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 2 $
 http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402386&extension=m3u8
