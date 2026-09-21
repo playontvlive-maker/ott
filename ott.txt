@@ -27,13 +27,13 @@ http://asmr4k.pro:8080/live/67389201934/0572884955/1112753.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
 http://asmr4k.pro:8080/live/67389201934/0572884955/1112754.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
-
+http://asmr4k.pro:8080/live/67389201934/0572884955/1112764.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
-
+http://asmr4k.pro:8080/live/67389201934/0572884955/1112767.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
-
+http://asmr4k.pro:8080/live/67389201934/0572884955/1112769.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
-
+http://asmr4k.pro:8080/live/67389201934/0572884955/497.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
 
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
