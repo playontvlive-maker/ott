@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 1
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402389&extension=m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 2
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402386&extension=m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 3
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402383&extension=m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 4
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402380&extension=m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 5
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402377&extension=m3u8
-#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", ALWAN SPORTS 6
-http://4kpro2.com:8789/play/live.php?mac=00:1A:79:FB:74:61&stream=402374&extension=m3u8
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 1 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181660
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 2 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181663
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 3 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181666
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 4 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181669
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 5 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181672
+#EXTINF:-1 tvg-logo="https://files.catbox.moe/imzk5l.PNG" group-title="Alwan Sport", Alwan Sport 6 $
+http://pro.netmos.ovh:7355/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181675
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
 http://asmr4k.pro:8080/live/67389201934/0572884955/1112750.m3u8
 #EXTINF:-1 tvg-logo="https://files.catbox.moe/uv4b5n.png" group-title="SPORTS", Live
